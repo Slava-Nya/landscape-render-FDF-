@@ -4,3 +4,5 @@ In this project implemented the basics of graphic programming, and in particular
 Used library: miniLibX.
 
  ![alt test](images_src/100.png)
+![alt test](images_src/42.png)
+![alt test](images_src/fractal.png)
